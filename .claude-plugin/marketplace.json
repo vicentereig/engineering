@@ -11,6 +11,7 @@
   "plugins": [
     {
       "name": "engineering-skills",
+      "source": "./plugins/engineering-skills",
       "description": "Web API reverse engineering and DSPy.rb skills",
       "version": "1.0.0",
       "author": { "name": "Vicente Reig", "url": "https://github.com/vicentereig" },
