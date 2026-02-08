@@ -1,0 +1,9 @@
+{
+  "name": "engineering-skills",
+  "version": "1.0.0",
+  "description": "Web API reverse engineering and DSPy.rb development skills",
+  "author": { "name": "Vicente Reig", "url": "https://github.com/vicentereig" },
+  "repository": "https://github.com/vicentereig/engineering",
+  "license": "MIT",
+  "keywords": ["web-api", "reverse-engineering", "openapi", "dspy", "ruby"]
+}
